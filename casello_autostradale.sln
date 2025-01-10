@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casello_autostradale", "casello_autostradale.csproj", "{F193D678-6D44-4A0C-9CE2-5185879EA9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F193D678-6D44-4A0C-9CE2-5185879EA9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F193D678-6D44-4A0C-9CE2-5185879EA9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F193D678-6D44-4A0C-9CE2-5185879EA9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F193D678-6D44-4A0C-9CE2-5185879EA9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713F9AF5-377D-4D37-BB6E-21CB79ED538E}
+	EndGlobalSection
+EndGlobal
